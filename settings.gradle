@@ -1,0 +1,2 @@
+rootProject.name='AnywhereNotes'
+include ':app'

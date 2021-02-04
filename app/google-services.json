@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987491862451",
+    "firebase_url": "https://anywherenotes-f4c0e.firebaseio.com",
+    "project_id": "anywherenotes-f4c0e",
+    "storage_bucket": "anywherenotes-f4c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987491862451:android:368a09e62509439ebbedc6",
+        "android_client_info": {
+          "package_name": "com.speechtotext.anywherenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987491862451-3hk4t47j4m85rfllm76j4kbsqu50i3ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgCpxE6pn7CFSU3foIkT-zLoh_TtUWJZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987491862451-3hk4t47j4m85rfllm76j4kbsqu50i3ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
